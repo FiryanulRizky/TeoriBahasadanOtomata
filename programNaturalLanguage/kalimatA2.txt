@@ -1,0 +1,81 @@
+Setiap orang menginginkan pengambilan keputusan yang tepat
+Setiap orang menginginkan pengambilan keputusan yang efisien
+Perusahaan membutuhkan Business Intellegence
+Decision tree merupakan metode klasifikasi
+Decision tree mudah diinterpretasikan
+Decision tree adalah model prediksi
+Decision tree menggunakan struktur pohon
+Decision tree menggunakan struktur berhirarki
+Decision tree sama dengan CART
+Decision tree merupakan gabungan dari dua jenis pohon
+Decision tree berguna untuk mengeksplorasi data
+Decision tree dapat menemukan hubungan tersembunyi
+Decision tree memadukan antara eksplorasi data dan pemodelan
+Decision  Tree menonjolkan Akurasi klasifikasi
+Decision  Tree menonjolkan Akurasi prediksi
+decision tree mampu membreakdown proses
+Decision tree memiliki banyak kelebihan
+Decision tree memiliki kekurangan
+Decision Tree dapat overlap
+Kualitas decision tree tergantung dari desain pohon
+Decision tree banyak digunakan dalam berbagai pengolahan data
+Decision tree banyak digunakan dalam machine learning
+Decision tree banyak digunakan dalam data mining
+decision tree  berguna untuk penilaian credit scoring
+Decision tree menggunakan model keputusan yang berbentuk seperti pohon
+pohon keputusan menggunakan model keputusan yang berbentuk seperti pohon
+Decision tree memetakan berbagai kemungkinan dalam masalah
+Decision tree menggunakan pernyataan kontrol bersyarat
+Decision tree digunakan dalam riset operasi
+Decision tree digunakan dalam manajemen operasi
+Decision tree digunakan dalam analisis keputusan
+Decision tree merupakan alat yang populer dalam machine learning
+Decision tree merupakan struktur simpul interval
+setiap simpul daun mewakili label kelas
+Jalur dari root ke daun mewakili aturan klasifikasi
+Decision tree digunakan sebagai alat pendukung keputusan visual
+Decision tree digunakan sebagai alat pendukung keputusan analitis
+Decision tree terdiri dari tiga jenis simpul
+Decision tree digunakan untuk menghitung probabilitas bersyarat 
+Decision Tree dilinearisasi menjadi aturan keputusan
+Aturan asosiasi Menghasilkan aturan keputusan
+Decision tree adalah model generatif
+Algoritma ID3 menghasilkan pohon optimal
+Algoritma C45 menghasilkan pohon optimal
+Algoritma CLS menghasilkan pohon optimal
+Algoritma ASSISTANT menghasilkan pohon optimal
+Algoritma CART menghasilkan pohon optimal
+Decision tree memiliki beberapa keunggulan
+Decision tree mudah dimengerti
+Orang memahami decision tree dengan penjelasan singkat
+Ahli menghasilkan wawasan penting
+Ahli menggambarkan situasi
+Ahli menggambarkan prefensi
+Decision tree menentukan nilai terburuk
+Decision tree menentukan nilai terbaik
+Decision tree menentukan nilai yang diharapkan
+Decision tree Menggunakan model kotak putih
+Decision tree Dapat dikombinasikan
+Decision tree merupakan Tidak stabil
+perubahan kecil dapat menyebabkan perubahan besar
+Decision tree Relatif tidak akurat
+banyak prediktor lain memiliki kinerja yang lebih baik
+Perhitungan bisa menjadi sangat kompleks
+Decision tree adalah sebuah diagram alir
+internal node menyatakan pengujian terhadap suatu atribut
+cabang menyatakan output dari pengujian
+leaf node menyatakan kelas
+leaf node menyatakan distribusi kelas
+leaf node tidak memiliki satu edge keluar
+Decision tree digunakan untuk mengklasifikasikan
+Klasifikasi menggunakan decision tree
+Atribut data harus berupa data kategorik
+setiap cabang menyatakan output
+information gain menggunakan ukuran impurity
+Information Gain merupakan suatu ukuran korelasi
+Information Gain menggambarkan ketergantungan antara dua peubah acak
+Gain Ratio merupakan modifikasi dari information gain
+Gain ratio untuk mengurangi bias atribut
+Gain ratio Bernilai besar bila data menyebar rata
+Gain ratio Bernilai kecil bila semua data masuk dalam satu cabang
+tidak dapat menemukan kotak

@@ -1,0 +1,81 @@
+K-Nearest Neighbor adalah metode pembelajaran mesin.
+K-Nearest Neighbor mengklasifikasikan objek baru.
+Objek baru diklasifikasikan berdasarkan atribut.
+Objek baru diklasifikasikan berdasarkan training sample.
+K-Nearest Neighbor adalah metode klasifikasi sederhana.
+K-Nearest Neighbor tidak mengharuskan pemasangan model.
+K-Nearest Neighbor Classifier hanya berdasarkan pada memori.
+Kinerja K-Nearest Neighbor tergantung rumus jarak.
+Rumus yang dapat digunakan adalah euclidean distance.
+Rumus yang dapat digunakan adalah hamming distance.
+Rumus yang dapat digunakan adalah manhattan distance.
+Rumus yang dapat digunakan adalah minkowski distance.
+Rumus yang dapat digunakan adalah cosine similarity.
+Aturan klasifikasi K-Nearest Neighbor dibuat oleh sampel pelatihan.
+K-Nearest Neighbor mengklasifikasikan berdasarkan pelatihan terdekat.
+K-Nearest Neighbor adalah jenis pembelajaran berbasis contoh.
+Fase training hanya menyimpan vektor fitur.
+Fitur testing data dihitung pada fase klasifikasi.
+Vektor baru dihitung jaraknya.
+Hasilnya diambil k buah yang terdekat.
+Prediksi klasifikasi diambil dari vote terbanyak.
+K-Nearest Neighbors perlu menentukan banyaknya tetangga terdekat.
+Nilai k lebih baik angka ganjil.
+Nilai k dipertimbangkan berdasarkan banyak data.
+Nilai k dipertimbangkan berdasarkan ukuran dimensi.
+Nilai k tinggi akan mengurangi efek noise.
+Ketepatan K-Nearest Neighbor dipengaruhi oleh fitur.
+Riset K-Nearest Neighbor membahas bagaimana memilih fitur.
+Riset K-Nearest Neighbor membahas bagaimana memberi bobot fitur.
+K-Nearest Neighbor memiliki beberapa kelebihan.
+Kelebihan K-Nearest Neighbor adalah ketangguhan terhadap training data.
+Training data K-Nearest Neighbor memiliki banyak noise.
+Kelemahan K-Nearest Neighbor adalah perlu menentukan Nilai k .
+Nilai k adalah jumlah dari tetangga terdekat.
+Training berdasarkan jarak.
+Jenis jarak yang harus digunakan beragam.
+K-Nearest Neighbor memerlukan Biaya komputasi tinggi.
+K-Nearest Neighbor memerlukan perhitungan jarak dari training sample.
+K-Nearest Neighbor memiliki akurasi yang cukup tinggi.
+K-Nearest Neighbor adalah metode yang sederhana.
+Dengan K-Nearest Neighbor sudah mendapatkan akurasi cukup.
+Akurasi K-Nearest Neighbor cukup tinggi daripada metode lain.
+Analisis sentiment juga disebut penambangan opini.
+Analisis sentiment adalah bidang yang menganalisis opini.
+Analisis sentiment adalah bidang yang menganalisis sentimen.
+Analisis sentiment adalah bidang yang menganalisis evaluasi.
+Analisis sentiment adalah bidang yang menganalisis penilaian. 
+Analisis sentiment adalah bidang yang menganalisis sikap.
+Analisis sentiment adalah bidang yang menganalisis emosi.
+Analisis sentiment dilakukan terhadap produk.
+Analisis sentiment dilakukan terhadap layanan.
+Analisis sentiment dilakukan terhadap organisasi.
+Analisis sentiment dilakukan terhadap individu.
+Analisis sentiment dilakukan terhadap masalah.
+Analisis sentiment dilakukan terhadap peristiwa.
+Analisis sentiment dilakukan terhadap topik.
+Analisis sentiment dilakukan terhadap.
+Analisis sentiment dilakukan terhadap atribut.
+Analisis sentiment mewakili ruang masalah yang besar.
+Analisis sentiment memiliki istilah lain yaitu penambangan opini.
+Analisis sentiment memiliki istilah lain yaitu ekstraksi pendapat.
+Analisis sentiment memiliki istilah lain yaitu penambangan sentiment.
+Analisis sentiment memiliki istilah lain yaitu analisis subjektivitas.
+Analisis sentiment memiliki istilah lain yaitu analisis pengaruh.
+Analisis sentiment memiliki istilah lain yaitu analisis emosi.
+Analisis sentiment memiliki istilah lain yaitu penambangan review.
+Semuanya sekarang berada di dalam analisis sentiment.
+Analisis sentimen berfokus pada pendapat yang mengungkapkan nilai positif atau negatif.
+Analisis sentimen dapat terdiri dari dua kelas.
+Analisis sentimen dapat terdiri dari tiga kelas.
+Analisis sentimen dapat terdiri dari lima kelas.
+Analisis sentimen dapat dilakukan pada media sosial.
+Analisis sentimen dapat dilakukan pada komentar.
+Analisis sentiment menambang opini dari media sosial.
+Analisis sentiment menambang opini dari komentar.
+Twitter adalah media sosial.
+Twitter dapat digunakan untuk menambang opini.
+Opini yang didapat digunakan untuk Analisis sentiment.
+Opini twitter selalu diperbarui.
+Twitter membahas peristiwa yang sedang terjadi di dunia. 
+ 

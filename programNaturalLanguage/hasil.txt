@@ -1,0 +1,212 @@
+Kalimat 'Decision tree merupakan gabungan dari dua jenis pohon'
+Merupakan bahasa baku
+Pohon Parsing : 
+Decision
+	N
+		FN
+			S
+				kalimat
+tree
+	N
+		FN
+			S
+				kalimat
+merupakan
+	V
+		FV
+			P
+				kalimat
+gabungan
+	N
+		FN
+			S
+				kalimat
+dari
+	konj
+		FN
+			S
+				kalimat
+dua
+	count
+		FN
+			S
+				kalimat
+jenis
+	N
+		FN
+			S
+				kalimat
+pohon
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Setiap orang menginginkan pengambilan keputusan yang tepat'
+Merupakan bahasa tidak baku
+==============================================================================================================================
+Kalimat 'Setiap orang menginginkan pengambilan keputusan yang efisien'
+Merupakan bahasa tidak baku
+==============================================================================================================================
+Kalimat 'leaf node menyatakan kelas'
+Merupakan bahasa baku
+Pohon Parsing : 
+leaf
+	N
+		FN
+			S
+				kalimat
+node
+	N
+		FN
+			S
+				kalimat
+menyatakan
+	V
+		FV
+			P
+				kalimat
+kelas
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Decision tree merupakan metode klasifikasi'
+Merupakan bahasa baku
+Pohon Parsing : 
+Decision
+	N
+		FN
+			S
+				kalimat
+tree
+	N
+		FN
+			S
+				kalimat
+merupakan
+	V
+		FV
+			P
+				kalimat
+metode
+	N
+		FN
+			S
+				kalimat
+klasifikasi
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Decision tree mudah diinterpretasikan'
+Merupakan bahasa baku
+Pohon Parsing : 
+Decision
+	N
+		FN
+			S
+				kalimat
+tree
+	N
+		FN
+			S
+				kalimat
+mudah
+	adj
+		FN
+			S
+				kalimat
+diinterpretasikan
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Decision tree merupakan gabungan dari dua jenis pohon'
+Merupakan bahasa baku
+Pohon Parsing : 
+Decision
+	N
+		FN
+			S
+				kalimat
+tree
+	N
+		FN
+			S
+				kalimat
+merupakan
+	V
+		FV
+			P
+				kalimat
+gabungan
+	N
+		FN
+			S
+				kalimat
+dari
+	konj
+		FN
+			S
+				kalimat
+dua
+	count
+		FN
+			S
+				kalimat
+jenis
+	N
+		FN
+			S
+				kalimat
+pohon
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Orang memahami decision tree dengan penjelasan singkat'
+Merupakan bahasa tidak baku
+==============================================================================================================================
+Kalimat 'Kualitas decision tree tergantung dari desain pohon'
+Merupakan bahasa tidak baku
+==============================================================================================================================
+Kalimat 'Decision tree menggunakan struktur berhirarki'
+Merupakan bahasa baku
+Pohon Parsing : 
+Decision
+	N
+		FN
+			S
+				kalimat
+tree
+	N
+		FN
+			S
+				kalimat
+menggunakan
+	V
+		FV
+			P
+				kalimat
+struktur
+	N
+		FN
+			S
+				kalimat
+berhirarki
+	N
+		FN
+			S
+				kalimat
+==============================================================================================================================
+Kalimat 'Algoritma ID3 menghasilkan pohon optimal'
+Merupakan bahasa tidak baku
+==============================================================================================================================
+Kalimat 'Algoritma ASSISTANT menghasilkan pohon optimal'
+Merupakan bahasa tidak baku
+==============================================================================================================================

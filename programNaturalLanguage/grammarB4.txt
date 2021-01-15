@@ -1,0 +1,50 @@
+kalimat -> S P O
+kalimat -> S P Pel
+kalimat -> S P O Pel
+kalimat -> S P
+kalimat -> S P K
+kalimat -> S P O K
+S -> FN
+P -> FV
+P -> FA 
+O -> FN
+K -> FNum
+K -> FP
+FP -> IN FN
+FP -> IN FV FN
+Pel -> FA
+Pel -> FN
+Pel -> FV
+Pel -> FP
+Nominal -> FW
+Nominal -> RB
+Nominal -> NND
+Nominal -> NN
+VB -> MD
+FN -> Nominal
+FN -> Nominal FN
+FN -> FN FA
+FN -> VB FN
+FN -> FNum FN
+FA -> JJ
+FA -> Adv JJ
+FV -> VB
+FV -> VB FV
+FV -> NEG FV
+FV -> RB FV
+FV -> VB WH
+FNum -> CD
+FNum -> JJ FNum
+CD -> "banyak" | "beberapa" | "beragam" | "k" |
+FW -> "classifier" | "cosine" | "distance" | "fase" | "hamming" | "k-nearest" | "neighbor" | "neighbors" | "noise" | "riset" | "sample" | "similarity" | "terbanyak" | "training" |"vote" |
+IN -> "dari" | "oleh" | "pada" | "terhadap" |
+JJ -> "baru" | "baik" | "ganjil" | "sederhana" | "terdekat" | "tinggi" |
+Adv -> "sangat" | "cukup" | "kurang" |
+MD -> "akan" | "dapat" | "harus" | "perlu" |
+NEG -> "tidak" |
+NN -> "atribut" | "angka" | "aturan" | "banyaknya" | "biaya" | "bobot" | "perhitungan" | "contoh" | "data" | "dimensi" | "efek" | "euclidean" | "fase" | "fitur" | "jarak" | "jenis" | "jumlah" | "akurasi" | "k" | "kelebihan" | "kelemahan" | "ketangguhan" | "ketepatan" | "kinerja" | "klasifikasi" | "komputasi" | "manhattan" | "memori" | "mesin" | "metode" | "model" | "nilai" | "objek" | "pelatihan" | "pemasangan" | "pembelajaran" | "prediksi" | "rumus" | "sampel" | "sebaiknya" | "testing" | "tetangga" | "training" | "ukuran" | "vektor" |
+NND -> "buah" |
+RB -> "hanya" | "hasilnya" | "jaraknya" | "training" | "cukup" | "lebih" |
+SC -> "jika" | "minkowski" | "yang" |
+VB -> "adalah" | "berbasis" | "berdasarkan" | "diambil" | "dibuat" | "digunakan" | "dihitung" | "diklasifikasikan" | "dipengaruhi" | "dipertimbangkan" | "membahas" | "memberi" | "memerlukan" | "memilih" | "memiliki" | "menentukan" | "mengharuskan" | "mengklasifikasikan" | "mengurangi" | "menyimpan" | "tergantung" |
+WH -> "bagaimana" |

@@ -1,0 +1,29 @@
+kalimat -> S P
+kalimat -> S P O
+kalimat -> S P Pel
+kalimat -> S P Ket
+kalimat -> S P O Ket
+kalimat -> S P Pel Ket
+S -> FN
+FN -> N
+FN -> N FN
+FN -> konj FN
+FN -> count FN
+FN -> adj FN
+FN -> FN adj
+P -> FV
+FV -> V
+FV -> konj V
+FV -> V FV
+FV -> adj FN
+FV -> adj FV
+O -> FN
+Ket -> konj FN
+Ket -> konj FV
+Pel -> konj FN
+Pel -> konj count
+konj -> "yang" | "dari" | "untuk" | "dapat" | "antara" | "dan" | "dalam" | "berbagai" | "seperti" | "ke" | "sebagai" | "menjadi" | "beberapa" | "dengan" | "tidak" | "sangat" | "terhadap" | "pada" | "sampai" | "secara" | "oleh"
+adj -> "mudah" | "banyak" | "terbaik" | "terburuk" | "kecil" | "besar" | "baik" | "cepat" | "sulit"
+count -> "nol" | "satu" | "dua" | "tiga" | "semua" | "1995"
+N -> "setiap" | "orang" | "keputusan" | "tepat" | "efisien" | "perusahaan" | "business" | "intellegence" | "decision" | "Decision" | "tree" | "metode" | "klasifikasi" | "diinterpretasikan" | "model" | "prediksi" | "struktur" | "pohon" | "berhirarki" | "cart" | "jenis" | "gabungan" | "data" | "hubungan" | "tersembunyi" | "pemodelan" | "akurasi" | "klasifikasi" | "prediksi" | "proses" | "kelebihan" | "kekurangan" | "kualitas" | "desain" | "pengolahan" | "machine" | "learning" | "data" | "mining" | "penilaian" | "credit" | "scoring" | "berbentuk" | "kemungkinan" | "masalah" | "pernyataan" | "kontrol" | "bersyarat" | "rata" | "bila" | "bernilai" | "riset" | "operasi" | "manajemen" | "analisis" | "alat" | "populer" | "simpul" | "interval" | "daun" | "aturan" | "label" | "kelas" | "jalur" | "root" | "pendukung" | "visual" | "analitis" | "probabilitas" | "asosiasi" | "generatif" | "algoritma" | "id3" | "c45" | "cls" | "assistant" | "optimal" | "keunggulan" | "penjelasan" | "singkat" | "prefensi" | "situasi" | "wawasan" | "penting" | "ahli" | "nilai" | "kotak" | "putih" | "stabil" | "perubahan" | "akurat" | "prediktor" | "lain" | "kinerja" | "lebih" | "perhitungan" | "bisa" | "kompleks" | "sebuah" | "diagram" | "alir" | "menjadi" | "internal" | "node" | "pengujian" | "suatu" | "atribut" | "cabang" | "output" | "leaf" | "distribusi" | "teratas" | "akar" | "edge" | "keluar" | "berupa" | "kategorik" | "information" | "gain" | "ukuran" | "impurity" | "korelasi" | "peubah" | "acak" | "ratio" | "modifikasi" | "bias" | "index" | "gini" | "pendapatan" | "memilih" | "binary" | "multyway" | "split" | "buah" | "training" | "set" | "terbaik" | "karakteristik" | "biner" | "numerik" | "missing" | "value" | "pruning" | "paling" | "kriteria" | "nonparametric" | "pendekatan" | "gambaran" | "ekpresif" | "sebagian" | "topdown" | "rekursif" | "subtree" | "replikasi" | "random" | "forest" | "hasil" | "voting" | "feature" | "selection" | "seleksi" | "pemecahan" | "lengkap" | "ho"
+V -> "menginginkan" | "pengambilan" | "membutuhkan" | "merupakan" | "adalah" | "menggunakan" | "sama" | "dengan" | "mengeksplorasi" | "berguna" | "menemukan" | "memadukan" | "eksplorasi" | "menonjolkan" | "mampu" | "membreakdown" | "memiliki" | "overlap" | "tergantung" | "digunakan" | "memetakan" | "mewakili" | "terdiri" | "menghitung" | "dilinearisasi" | "menghasilkan" | "dimengerti" | "memahami" | "menggambarkan" | "menentukan" | "diharapkan" | "dikombinasikan" | "menyebabkan" | "relatif" | "menjadi" | "menyatakan" | "disebut" | "mengklasifikasikan" | "masuk" | "harus" | "ketergantungan" | "mengurangi" | "menyebar" | "ketidaksamaan" | "penentuan" | "dipengaruhi" | "dipilih" | "dikembangkan" | "memperbaiki" | "berbasiskan" | "menangani" | "melakukan" | "memperoleh" | "membangun" | "memungkinkan" | "memberikan" | "dilakukan" | "direplikasi" | "diinterpretasi" | "berdasarkan" | "menerapkan" | "dibangun" | "membagi" | "mengklasifiksi" | "diusulkan" 
